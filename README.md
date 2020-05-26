@@ -1,4 +1,3 @@
-README
 # Run Instructions
 
 1. Open MusicClient and MusicCentral  
